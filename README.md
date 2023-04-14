@@ -56,8 +56,6 @@ Cette commande nous permet de voir les modifications les plus récentes ainsi qu
 
 **Ajouter/Mettre à jour un fichier du local au GitHub :**```git add (fichier)```
 
-> Attention ! Les fichier ne sont pas tout de suite mis à jour dans GitHub ! Il faut entrer en local les commandes suivantes :
-
 **Ajouter un commentaire à la modification effectuée :** ```git commit -m "Commentaire"```
 
 **Appliquer les modification au GitHub :** ```git push```
